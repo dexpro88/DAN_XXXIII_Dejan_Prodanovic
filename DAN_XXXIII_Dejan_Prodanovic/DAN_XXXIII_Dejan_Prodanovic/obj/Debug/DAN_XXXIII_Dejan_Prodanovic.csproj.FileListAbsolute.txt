@@ -1,0 +1,7 @@
+C:\Users\panonit\Desktop\Obuka\threading\DAN_XXXIII_Dejan_Prodanovic\DAN_XXXIII_Dejan_Prodanovic\bin\Debug\DAN_XXXIII_Dejan_Prodanovic.exe.config
+C:\Users\panonit\Desktop\Obuka\threading\DAN_XXXIII_Dejan_Prodanovic\DAN_XXXIII_Dejan_Prodanovic\bin\Debug\DAN_XXXIII_Dejan_Prodanovic.exe
+C:\Users\panonit\Desktop\Obuka\threading\DAN_XXXIII_Dejan_Prodanovic\DAN_XXXIII_Dejan_Prodanovic\bin\Debug\DAN_XXXIII_Dejan_Prodanovic.pdb
+C:\Users\panonit\Desktop\Obuka\threading\DAN_XXXIII_Dejan_Prodanovic\DAN_XXXIII_Dejan_Prodanovic\obj\Debug\DAN_XXXIII_Dejan_Prodanovic.csprojAssemblyReference.cache
+C:\Users\panonit\Desktop\Obuka\threading\DAN_XXXIII_Dejan_Prodanovic\DAN_XXXIII_Dejan_Prodanovic\obj\Debug\DAN_XXXIII_Dejan_Prodanovic.csproj.CoreCompileInputs.cache
+C:\Users\panonit\Desktop\Obuka\threading\DAN_XXXIII_Dejan_Prodanovic\DAN_XXXIII_Dejan_Prodanovic\obj\Debug\DAN_XXXIII_Dejan_Prodanovic.exe
+C:\Users\panonit\Desktop\Obuka\threading\DAN_XXXIII_Dejan_Prodanovic\DAN_XXXIII_Dejan_Prodanovic\obj\Debug\DAN_XXXIII_Dejan_Prodanovic.pdb
